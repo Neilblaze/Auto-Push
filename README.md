@@ -17,7 +17,7 @@ execute.sh
 - This folder "Repo" is committed and files are pushed to the remote branch.  
 
 ### Motivation
-I get a lot of "lyadh" while developing crazy shits & hence get isolated from Github. But at the same time I don't want my GitHub to feel empty when I'm doing some form of work. So I decided to push the codes I am getting laid. Instead of committing each code, I felt it would be easier to save all the files in a folder and automate the  committing part.
+I get a lot of "lyadh" while developing crazy shits & hence get isolated from Github. But at the same time I don't want my GitHub to feel empty when I'm doing some form of work. So I decided to push the codes while I am getting laid. Instead of committing each code, I felt it would be easier to save all the files in a folder and automate the  committing part.
 
 ### To do
 Error Handling  
